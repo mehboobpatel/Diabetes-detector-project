@@ -16,4 +16,7 @@ RESULT PAGE FOR DIABETIC
 RESULT PAGE FOR NON DIABETIC
 ![image](https://user-images.githubusercontent.com/92875632/160886425-4934cc59-0549-48eb-8936-1ce21ac8f10f.png)
 
+USED AZURE VM WINDOWS SERVER TO CREATE PROJECT FILES
+![image](https://user-images.githubusercontent.com/92875632/160891534-0f85a8cc-c0cd-4599-97df-7604f35a2fb6.png)
+
 
